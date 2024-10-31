@@ -20,6 +20,9 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/madanrr61" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/madanrr61" height="30" width="40" /></a>
 <a href="https://t.me/DEADFITS" target="_main" rel="noreferrer"> <img align="center" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png?20231105064641" alt="" width="40" height="40"/> </a> 
 
+
+
+
 </center>
 
 <h3 align="left">Languages and Tools:</h3>
